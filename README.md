@@ -27,9 +27,9 @@ pip install xlutils
 
 ## Interfaz de la aplicación ️
 
-![](Interfaz.png)
+![](images/Interfaz.png)
 
-## Autor ✒️
+## Autores ✒️
 
 * **David Ricardo Cortés Leal** - [dacorile](https://github.com/dacorile)
 * **Juan Sebastián Sánchez Mancilla** - [ataches](https://github.com/Ataches)
